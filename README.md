@@ -23,11 +23,7 @@ A lightweight GTK-based BitTorrent client written in Python using **libtorrent**
 
 ## Screenshot
 
-> Add a screenshot here.
-
-```
-docs/screenshot.png
-```
+![Streamline Screenshot](docs/screenshot.png)
 
 ## Requirements
 
