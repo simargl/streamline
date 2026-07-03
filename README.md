@@ -116,18 +116,6 @@ streamline/
 - ✅ Automatic seeding
 - ✅ Command-line magnet support
 
-## Planned Features
-
-- Multiple simultaneous downloads
-- Pause and resume
-- Torrent list
-- Remove torrent
-- Download history
-- Select download location
-- File priority selection
-- Dark mode
-- Notifications
-
 ## License
 
 This project is licensed under the MIT License.
